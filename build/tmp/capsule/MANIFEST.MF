@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: Capsule
+Application-Class: jmodern.Main
+Application-Version: 0.1.0
+Min-Java-Version: 1.8.0
+JVM-Args: 
+System-Properties: dropwizard.config=$CAPSULE_DIR/jmodern.yml
+
