@@ -1,12 +1,12 @@
-bin/
-build/
-gen/
+bin
+build
+gen
 local.properties
 .DS_Store
 .classpath
 .project
-.gradle/
-.nb-gradle/
+.gradle
+.nb-gradle
 
 *.o
 *.so
@@ -16,9 +16,9 @@ local.properties
 *.ear
 
 # NetBeans
-nbproject/
-nbbuild/
-disk/
-nbdist/
+nbproject
+nbbuild
+disk
+nbdist
 nbactions.xml
 nb-configuration.xml
