@@ -5,8 +5,8 @@ local.properties
 .DS_Store
 .classpath
 .project
-.gradle
-.nb-gradle
+.gradle/
+.nb-gradle/
 
 *.o
 *.so
