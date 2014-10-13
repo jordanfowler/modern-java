@@ -1,0 +1,24 @@
+bin/
+build/
+gen/
+local.properties
+.DS_Store
+.classpath
+.project
+.gradle
+.nb-gradle
+
+*.o
+*.so
+*.class
+*.jar
+*.war
+*.ear
+
+# NetBeans
+nbproject/
+nbbuild/
+disk/
+nbdist/
+nbactions.xml
+nb-configuration.xml
